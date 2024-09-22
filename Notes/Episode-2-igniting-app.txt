@@ -1,0 +1,12 @@
+--> package.json is a configuration for NPM
+
+--> what is Bundler
+   webpack, parcel, veet
+
+--> parcel
+1)dev dependencies -it will required when we develop
+2)normal dependencies -- it will use production as well
+
+--> difference between ^(caret) and ~(Tild)
+   -- ^(caret) -- it will upgrade minior version(mostly we have to use caret only) EX: "^2.8.3" -- "^2.8.5"
+   -- ~(tild) -- it will install major version automatically EX: "^2.8.3" -- "^3.8.3"

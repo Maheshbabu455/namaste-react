@@ -1,0 +1,5 @@
+1) what is CDN?
+2) what  is crossorigin?
+3) what is reactelement at  the end of  the day? -- it is an object
+4) what is render method? -- it is helping us put to that object to root element and convert object to html.
+5) if we want to give more childs inside the parent div we have to use [] array by placing the childs.
